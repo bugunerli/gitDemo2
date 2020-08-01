@@ -2,7 +2,7 @@ package package3;
 
 public class PracticeWithHasan {
     public static void main(String[] args) {
-        System.out.println(We live inCanada);
+        System.out.println("We live in Canada");
     }
 
 }
