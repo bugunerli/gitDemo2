@@ -5,6 +5,8 @@ public class gitPractice {
 
         System.out.println("Practice");
         System.out.println("Practice");
+        System.out.println("Practice");
+        System.out.println("Practice");
 
     }
 
